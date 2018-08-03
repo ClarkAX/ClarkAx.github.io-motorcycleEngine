@@ -1,4 +1,6 @@
 
+@media screen and (max-width: 481px){
+
 /* Page Design */
 
 body{
@@ -170,5 +172,5 @@ table{
 	color:white;
 }
 
-
+}
 
